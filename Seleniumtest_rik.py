@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 
-#import re
 import time
 
 
@@ -18,7 +17,6 @@ class RikBot(unittest.TestCase):
     def setUp(self):
         """Setup bot for Rik URL."""
         self.rik_url = "https://www.rik.ee/"
-        #self.items = items
 
         self.options = Options()
         self.driver = webdriver.Chrome(r"C:\browserdriver\chromedriver.exe")
