@@ -1,4 +1,4 @@
-Sammud Seleniumtest_rik.py testkeskkonna üles seadmiseks.
+h1.Sammud Seleniumtest_rik.py testkeskkonna üles seadmiseks.
 
 1. Kui Chrome veebilehitsejat pole installeeritud siis tuleks esmalt see installerida: https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiAg9rxBRADEiwAxKDTurYAbsSfeI9L0rwPEkZ9Kq8rtKbmNtgQpdRyioxhCE65qgCdM7ngbhoCmw8QAvD_BwE&gclsrc=aw.ds
 
