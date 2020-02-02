@@ -1,4 +1,4 @@
-h1.Sammud Seleniumtest_rik.py testkeskkonna üles seadmiseks.
+#### Sammud Seleniumtest_rik.py testkeskkonna üles seadmiseks.
 
 1. Kui Chrome veebilehitsejat pole installeeritud siis tuleks esmalt see installerida: https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiAg9rxBRADEiwAxKDTurYAbsSfeI9L0rwPEkZ9Kq8rtKbmNtgQpdRyioxhCE65qgCdM7ngbhoCmw8QAvD_BwE&gclsrc=aw.ds
 
@@ -16,18 +16,18 @@ h1.Sammud Seleniumtest_rik.py testkeskkonna üles seadmiseks.
 
 
 
-Programmi kirjeldus:
+#### Programmi kirjeldus:
 
 Programm testib https://www.rik.ee/ leheküljel olevaid linke ja annab tagasisidet, kas lingis kirjeldatud lehekülg päriselt sinna klikides ka avaneb.
 
-Testitavad lingid:
+##### Testitavad lingid:
 
 1. E-äriregister
 2. Euroopa äriregister
 3. Ettevõtjaportaal
 4. Kinnistuportaal
 
-Programmi käivitamisele järgnevad protsessid:
+#### Programmi käivitamisele järgnevad protsessid:
 
 1. Programm avab Chrome veebilehitseja.(lisaks veebilehitsejale avaneb ka Command Prompt)
 2. Veebilehitseja navigeerib lehele https://ww.rik.ee/
